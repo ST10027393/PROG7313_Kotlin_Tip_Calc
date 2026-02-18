@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PROG7313_Tip_Calc</string>
+    <string name="calctip">calcTip</string>
+    <string name="bill_amount">Bill Amount:</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="no">No</string>
+    <string name="would_you_like_to_split_the_bill">Would you like to split the bill?</string>
+    <string name="textview">TextView</string>
+    <string name="yes">Yes</string>
+    <string name="bill_report">Bill Report:</string>
+</resources>
